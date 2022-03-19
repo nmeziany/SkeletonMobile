@@ -45,7 +45,7 @@ nav {
 
 .hello {
   background-color: white;
-  border-bottom-left-radius: 50px;
+  border-bottom-left-radius: 100px;
 }
 
 .hellosection {
@@ -53,7 +53,7 @@ nav {
   display: flex;
   flex-direction: column;
   height: 587px;
-  background-image: url(images/bground.svg);
+  background: url(images/header-shapes\ mobile.svg) no-repeat;
 }
 
 .box {
